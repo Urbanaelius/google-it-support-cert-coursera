@@ -2,7 +2,7 @@
 ### How many possible values can we have with the 8 bits in a byte?
 ```
 * 144
-* ``256``
+* **256**
 * 8
 * 127
 ```
