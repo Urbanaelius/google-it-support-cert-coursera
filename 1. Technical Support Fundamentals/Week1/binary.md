@@ -1,5 +1,5 @@
-## Question 1 ##
-#### How many possible values can we have with the 8 bits in a byte? ####
+## Question 1
+#### How many possible values can we have with the 8 bits in a byte?
 - [ ] 144
 - [x] **256**
 - [ ] 8
