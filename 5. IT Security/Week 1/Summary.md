@@ -15,7 +15,6 @@ Every aspect of security revolves around these three principles.
 - **Integrity** means keeping our data accurate and untampered with
 - **Availability** means the information we have is readily accessible to those people who should have it
 
-
 ### Essential Security Terms
 
 - **Risk:** The possibility of suffering a loss in the event of an attack on the system.
