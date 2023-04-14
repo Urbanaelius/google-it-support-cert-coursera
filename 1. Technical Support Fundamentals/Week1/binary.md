@@ -4,5 +4,6 @@
 - [x] **256**
 - [ ] 8
 - [ ] 127
+
 Correct Answer: 
 _Since there are 8 bits with two values each, the highest number of possible values is 2 to the power of 8, or 256. 
